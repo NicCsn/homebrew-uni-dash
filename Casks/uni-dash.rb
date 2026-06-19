@@ -1,6 +1,6 @@
 cask "uni-dash" do
-  version "1.0.3"
-  sha256 "dd3a7c1f69ec747e3bedeb7b595e70c27ae05f8ad53cd6d949df1c0432d7e562"
+  version "1.0.4"
+  sha256 "41cf3d2f8490e2e65f9fa57c124b619ed934997e71d56e54c41f7ae5b225d2eb"
 
   url "https://github.com/NicCsn/uni-dash/releases/download/v#{version}/Uni.Dash_#{version}_aarch64.dmg"
   name "Uni Dash"
